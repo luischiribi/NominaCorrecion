@@ -1,0 +1,5 @@
+D:\SENA\vs Códigos\CorreccionEvaluacionNomina\obj\Debug\net6.0\CorreccionEvaluacionNomina.csproj.AssemblyReference.cache
+D:\SENA\vs Códigos\CorreccionEvaluacionNomina\obj\Debug\net6.0\CorreccionEvaluacionNomina.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENA\vs Códigos\CorreccionEvaluacionNomina\obj\Debug\net6.0\CorreccionEvaluacionNomina.AssemblyInfoInputs.cache
+D:\SENA\vs Códigos\CorreccionEvaluacionNomina\obj\Debug\net6.0\CorreccionEvaluacionNomina.AssemblyInfo.cs
+D:\SENA\vs Códigos\CorreccionEvaluacionNomina\obj\Debug\net6.0\CorreccionEvaluacionNomina.csproj.CoreCompileInputs.cache
